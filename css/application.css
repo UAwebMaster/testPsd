@@ -8167,7 +8167,7 @@ button.close {
 @font-face {
   font-family: 'fontAwesome';
   src: url("../fonts/fontawesome-webfont.eot");
-  src: url("../fonts/fontawesome-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/fontawesome-webfont.woff2") format("woff2"), url("../fonts/fontawesome-webfont.woff") format("woff"), url("../fonts/fontawesome.ttf") format("truetype"), url("../fonts/fontawesome-webfont.svg#fontawesomeregular") format("svg"); }
+  src: url("../fonts/fontawesome-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/fontawesome-webfont.woff2") format("woff2"), url("../fonts/fontawesome-webfont.woff") format("woff"), url("../fonts/fontawesome-webfont.ttf") format("truetype"), url("../fonts/fontawesome-webfont.svg#fontawesomeregular") format("svg"); }
 
 @font-face {
   font-family: 'Glyphicons Halflings';
@@ -9170,7 +9170,7 @@ footer {
         footer .carousel.slide .container-photo {
           width: 149.5px !important; } }
     footer .carousel.slide .carousel-control .glyphicon-chevron-right, footer .carousel.slide .carousel-control .icon-next {
-      background: url("../images/arrows/frightArrow.png") no-repeat center center;
+      background: url("../images/arrows/rightArrow.png") no-repeat center center;
       width: 63px;
       height: 70px;
       top: 120px; }
